@@ -9,17 +9,16 @@
 # Hi there, I'm **SAI KARTHIK MANAM** 👋
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+DotNet+%7C+SQL+Expert;Building+Innovative+Web+Solutions;Tech+Enthusiast+%26+Content+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+DotNet+%7C+SQL+Expert;Building+Innovative+Web+Solutions;Tech+Enthusiast" alt="Typing SVG" />
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and technology enthusiast dedicated to creating impactful digital solutions. As a fresher, I'm continuously learning and exploring cutting-edge technologies to build robust, scalable applications. I love sharing knowledge through content creation and contributing to the developer community!
+I'm a passionate **Full Stack Developer** dedicated to creating impactful digital solutions. As a fresher, I'm continuously learning and exploring cutting-edge technologies to build robust, scalable applications. I love contributing to the developer community and tackling real-world challenges!
 
 - 💻 Building web applications with **Python, DotNet, and SQL**
 - 🎯 Specialized in Full Stack Development with modern frameworks
-- 🌍 Creating tech content and tutorials for developers
 - 🧠 Passionate about AI/ML integration in real-world applications
 - 📚 Always learning, always growing!
 
@@ -55,15 +54,31 @@ I'm a passionate **Full Stack Developer** and technology enthusiast dedicated to
 
 ---
 
+## 📁 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Portfolio Website](https://manam-sai-karthik-portfolio.vercel.app/) | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript |
+| [GitHub Repository](https://github.com/Sai-Karthik-Manam) | Collection of my coding projects and contributions | Python, DotNet, SQL |
+
+> 🔗 Check out my repositories for more projects!
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sai-Karthik-Manam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Karthik-Manam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Karthik-Manam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Karthik-Manam&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -71,7 +86,9 @@ I'm a passionate **Full Stack Developer** and technology enthusiast dedicated to
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sai-Karthik-Manam&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sai-Karthik-Manam&theme=darkhub&no-frame=true&row=1&column=7)
+
 </div>
 
 ---
