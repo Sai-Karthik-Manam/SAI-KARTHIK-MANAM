@@ -54,16 +54,39 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 
 ---
 
-## 📁 Featured Projects
+## 📁 My Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Portfolio Website](https://manam-sai-karthik-portfolio.vercel.app/) | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript |
-| [GitHub Repository](https://github.com/Sai-Karthik-Manam) | Collection of my coding projects and contributions | Python, DotNet, SQL |
+### 🔬 AI/ML Projects
 
-> 🔗 Check out my repositories for more projects!
+| Project | Description | Language | Repository |
+|---------|-------------|----------|-----------|
+| **Breast Cancer Prediction** | Machine Learning model for cancer prediction | Python | [View Repo](https://github.com/Sai-Karthik-Manam/Breast_Cancer_prediction) |
+| **Lens** | Advanced computer vision application | Python | [View Repo](https://github.com/Sai-Karthik-Manam/Lens) |
+| **Speech-to-Text Recognition** | Recognizes user input and converts to text format | Python | [View Repo](https://github.com/Sai-Karthik-Manam/Speech-to-Text-Recognition) |
+| **YouTube Transcript Summarizer** | Summarizes YouTube video transcripts | HTML | [View Repo](https://github.com/Sai-Karthik-Manam/YouTube_Transcript_Summarizer) |
+
+### 💬 AI/Chatbot Projects
+
+| Project | Description | Language | Repository |
+|---------|-------------|----------|-----------|
+| **Chatbot using Gemini** | AI-powered chatbot integrated with Google Gemini | Python | [View Repo](https://github.com/Sai-Karthik-Manam/chatbot-using-gemini) |
+
+### 🛍️ Web Applications
+
+| Project | Description | Language | Repository |
+|---------|-------------|----------|-----------|
+| **ShopSmart-App** | Shopping website for purchasing essential needs | TypeScript | [View Repo](https://github.com/Sai-Karthik-Manam/ShopSmart-App) |
+| **Live-Lens** | Real-time image processing application | HTML | [View Repo](https://github.com/Sai-Karthik-Manam/Live-Lens) |
+| **TODO-App** | Task management application for reminders | CSS | [View Repo](https://github.com/Sai-Karthik-Manam/TODO-App) |
+
+### 📋 Other Projects
+
+| Project | Description | Language | Repository |
+|---------|-------------|----------|-----------|
+| **Portfolio** | Personal portfolio website | JavaScript | [View Repo](https://github.com/Sai-Karthik-Manam/Portfolio) |
+| **LIC DataSheets** | Data management system | HTML | [View Repo](https://github.com/Sai-Karthik-Manam/Lic-DataSheets) |
 
 </div>
 
