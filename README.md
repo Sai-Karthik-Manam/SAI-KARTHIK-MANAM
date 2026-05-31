@@ -9,7 +9,7 @@
 # Hi there, I'm **SAI KARTHIK MANAM** 👋
 
 <!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+DotNet+%7C+SQL+Expert;Building+Innovative+Web+Solutions;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Python+%7C+DotNet+%7C+SQL+Expert;Building+Innovative+Web+Solutions;Tech+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=00B4D8&vCenter=true" alt="Typing Animation" />
 
 ---
 
@@ -96,11 +96,13 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Karthik-Manam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400)
+### Stats Overview
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Karthik-Manam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sai-Karthik-Manam)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Karthik-Manam&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true)](https://github.com/Sai-Karthik-Manam)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Karthik-Manam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Sai-Karthik-Manam)
 
 </div>
 
@@ -110,7 +112,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sai-Karthik-Manam&theme=darkhub&no-frame=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sai-Karthik-Manam&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Sai-Karthik-Manam)
 
 </div>
 
