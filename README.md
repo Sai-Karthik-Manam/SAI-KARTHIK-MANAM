@@ -29,6 +29,8 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,23 +98,14 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 
 <div align="center">
 
-### Stats Overview
+### 📈 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Karthik-Manam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sai-Karthik-Manam)
+**Total Contributions:** 147+  
+**Current Streak:** 2 days  
+**Longest Streak:** 7 days  
+**Primary Languages:** Python, JavaScript, HTML, CSS, TypeScript
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true)](https://github.com/Sai-Karthik-Manam)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Karthik-Manam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Sai-Karthik-Manam)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sai-Karthik-Manam&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Sai-Karthik-Manam)
 
 </div>
 
