@@ -98,13 +98,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating impactful digita
 
 <div align="center">
 
-### 📈 My GitHub Stats
-
-**Total Contributions:** 147+  
-**Current Streak:** 2 days  
-**Longest Streak:** 7 days  
-**Primary Languages:** Python, JavaScript, HTML, CSS, TypeScript
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sai-Karthik-Manam&theme=tokyonight&hide_border=true)](https://github.com/Sai-Karthik-Manam)
 
 </div>
